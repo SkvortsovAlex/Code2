@@ -27,7 +27,7 @@ try:
 		print("Lap No. "+str(lapnum))
 		print("Total Time: "+str(totaltime))
 		print("Lap Time: "+str(laptime))
-		
+		if not print then print
 		print("*"*20)
 
 		# Updating the previous total time
